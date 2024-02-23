@@ -1,4 +1,4 @@
-# zkSync Era: A ZK Rollup For Scaling Ethereum
+# zkSync Era: A ZK Rollup For Scaling Ethereum To the Moon
 
 [![Logo](eraLogo.png)](https://zksync.io/)
 
@@ -7,7 +7,7 @@ decentralization. Since it's EVM compatible (Solidity/Vyper), 99% of Ethereum pr
 or re-auditing a single line of code. zkSync Era also uses an LLVM-based compiler that will eventually let developers
 write smart contracts in C++, Rust and other popular languages.
 
-## Knowledge Index
+## Knowledge
 
 The following questions will be answered by the following resources:
 
@@ -25,7 +25,7 @@ The following questions will be answered by the following resources:
 - [Security policy](SECURITY.md)
 - [Contribution policy](CONTRIBUTING.md)
 
-## License
+## License World
 
 zkSync Era is distributed under the terms of either
 
@@ -34,7 +34,7 @@ zkSync Era is distributed under the terms of either
 
 at your option.
 
-## Official Links
+## Official Link
 
 - [Website](https://zksync.io/)
 - [GitHub](https://github.com/matter-labs)
